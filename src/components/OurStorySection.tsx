@@ -1,4 +1,4 @@
-import { Heart, Star, Film, Camera } from "lucide-react";
+import { Heart, Star, Camera } from "lucide-react";
 
 const scenes = [
     { title: "The Meet-Cute", desc: "Where our paths first crossed and the script began.", icon: <Camera /> },
