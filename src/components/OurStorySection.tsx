@@ -1,9 +1,9 @@
 import { Heart, Star, Camera } from "lucide-react";
 
 const scenes = [
-    { title: "The Meet-Cute", desc: "Where our paths first crossed and the script began.", icon: <Camera /> },
-    { title: "The Rising Action", desc: "Shared laughs, long talks, and the moments in between.", icon: <Star /> },
-    { title: "The Connection", desc: "Realizing that you were the lead role I'd been waiting for.", icon: <Heart /> },
+    { title: "The Meet-Cute", desc: "We went in to watch Oppenheimer, never knowing destiny had already rolled the opening credits of our love story.", icon: <Camera /> },
+    { title: "The Rising Action", desc: "Fate brought us back together with a swipe right , first as friends, then slowly, inevitably, as lovers.", icon: <Star /> },
+    { title: "The Connection", desc: "With you, love didn’t feel like a leap, it felt like coming home.", icon: <Heart /> },
 ];
 
 export default function OurStorySection() {
